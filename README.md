@@ -7,10 +7,10 @@ I am Zach, Hello!
 
 ## Description
 
-##How to Run a Program
+## How to Run a Program
 
 ## Files used
 
 ## Additional Documentation
 
-## Versioning.
+## Versioning
